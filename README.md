@@ -1,10 +1,23 @@
-## Hi, I’m Carlos👋
+# ¡Hola, soy Carlos Alguacil Garrido! 👋
 
-- 🔭 I’m a software student at Francisco de Vitoria University and 42 madrid student, where all of my C projects are developed.
-- 🌱 I’m currently learning Java, C and MySql
-- 👯 I’m looking to collaborate on any project in order to learn and develop my coding skills and knowledge.
-- 📫 How to reach me: caarlitoos30@gmail.com
+Soy un estudiante en continuo aprendizaje en el mundo de la programación. Actualmente divido mi tiempo entre dos proyectos académicos:
 
-  ![calguaci's 42 stats](https://badge.mediaplus.ma/kettlebells/calguaci?1337Badge=off)
+- 🎓 **Universidad Francisco de Vitoria (UFV)**: Aquí estoy aprendiendo a programar en **Java** y a manejar bases de datos con **MySQL**.
+- 💻 **42 Madrid**: En esta innovadora escuela, estoy profundizando en la programación con **C**, explorando los fundamentos del desarrollo y enfrentándome a desafíos que me adentran en el fascinante mundo de la programación.
+
+## 🚀 Habilidades en desarrollo
+- Lenguajes: Java, C
+- Bases de datos: MySQL
+- Enfoque en algoritmos y resolución de problemas
+
+## 📫 Cómo contactarme
+- **Email**: [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)
+
+ ![calguaci's 42 stats](https://badge.mediaplus.ma/kettlebells/calguaci?1337Badge=off)
+ 
+¡Gracias por visitar mi perfil! Siempre estoy abierto a aprender de nuevas experiencias y colaborar en proyectos interesantes. 🚀
+
+
+  
 
 
