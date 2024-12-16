@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on any project in order to learn and develop my coding skills and knowledge.
 - 📫 How to reach me: caarlitoos30@gmail.com
 
-  [![calguaci's 42 stats](https://badge.mediaplus.ma/kettlebells/calguaci?1337Badge=off)]
+  ![calguaci's 42 stats](https://badge.mediaplus.ma/kettlebells/calguaci?1337Badge=off)
 
 
