@@ -1,4 +1,4 @@
-## Hi, im Carlos👋
+## Hi, I’m Carlos👋
 
 - 🔭 I’m a software student at Francisco de Vitoria University 42 madrid student, where all of my C projects are developed.
 - 🌱 I’m currently learning Java and C.
