@@ -1,4 +1,4 @@
-# ¡Hola, soy Carlos Alguacil Garrido! 👋
+# ¡Hola, soy Carlos! 👋
 
 Soy un estudiante en continuo aprendizaje en el mundo de la programación. Actualmente divido mi tiempo entre dos proyectos académicos:
 
