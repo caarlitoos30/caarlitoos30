@@ -11,7 +11,7 @@ Soy un estudiante en continuo aprendizaje en el mundo de la programación. Actua
 - Enfoque en algoritmos y resolución de problemas
 
 ## 📫 Cómo contactarme
-- **Email**: [tuemail@ejemplo.com](mailto:caarlitoos30@gmail.com)
+- **Email**: [caarlitoos30@gmail.com](mailto:caarlitoos30@gmail.com)
 
  ![calguaci's 42 stats](https://badge.mediaplus.ma/kettlebells/calguaci?1337Badge=off)
  
